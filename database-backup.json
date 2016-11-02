@@ -1,0 +1,83 @@
+{
+  "games": [{
+    "name": "Phoenix: Dawn Command",
+    "description": "Phoenix uses cards in place of dice. Every player has a deck of cards that represent a character’s abilities. To accomplish an action, a player needs to lay down a set of cards with a total value that equals or exceeds the difficulty of the task. A player can get an extra push by using a trait – a card that describes a unique aspect of a character. If the player can explain how that trait applies to the current challenge, the value of the card is increased. This encourages casual storytelling, driving players to describe an action beyond the simple numbers. In addition, each player has a pool of mystical energy that can be used to boost the value of an action. This allows a character to succeed at a normally impossible task… but when that pool of energy is exhausted, the character dies.",
+    "price": 65,
+    "publisher": "TwoGether Studios",
+    "designer": "Keith Baker & Daniel Garrison",
+    "inventory": 10,
+    "img": "http://twogetherstudios.com/wp-content/uploads/2016/08/PDCBoxtop.png"
+  }, {
+    "name": "Dutch Blitz",
+    "description": "Dutch Blitz is a fast-paced, family oriented, action card game played with a specially printed deck. The game was created by Werner Ernst George Muller, a German immigrant from Bucks County, Pennsylvania. The game is very popular among the Pennsylvania Amish and Dutch community, and among Christian groups in the United States and Canada (primarily in Dutch and German communities).",
+    "price": 12.50,
+    "publisher": "Widget Inc.",
+    "designer": "Werner Ernst George Muller",
+    "inventory": 10,
+    "img": "https://cf.geekdo-images.com/images/pic336418.jpg"
+  }, {
+    "name": "Ad Astra",
+    "description": "In Ad Astra ('To the Stars'), you will guide one of the five factions of future humanity in its exploration of the galaxy. Wield powerful technology; reshape newly discovered planets to give a new home to man; and explore the mysterious relics of a long-lost alien civilization...Who will be able to create the greatest star-spanning civilization?Ad Astra is a game designed by Bruno Faidutti and Serge Laget, the team behind Mystery of the Abbey (© 2003 Days of Wonder).",
+    "price": 99.95,
+    "publisher": "Fantasy Flight Games: Nexus Design Series",
+    "designer": "Bruno Faidutti and Serge Laget",
+    "inventory": 10,
+    "img": "https://images-na.ssl-images-amazon.com/images/I/717CVFIVvcL._SL1200_.jpg"
+  }, {
+    "name": "Solarquest",
+    "description": "Solarquest is a space-age real estate trading game published in 1985 and developed by Valen Brost. The game is patterned after Monopoly, but replaces pewter tokens with rocketships and hotels with metallic fuel stations. Players travel around the sun acquiring monopolies and fending off attacks. They seek to knock their opponents out of the game through a combination of bankruptcy, laser blasts, and dwindling fuel supplies.",
+    "price": 145,
+    "publisher": "Golden Press/Western Publishing Company",
+    "designer": "Valen Brost",
+    "inventory": 10,
+    "img": "http://www.spyhunter007.com/Images2/solarquest_board_game.bmp"
+  }, {
+    "name": "Cthulhu Fluxx",
+    "description": "Follow the wild-eyed Poet, the obsessed Artist, and the expeditions of the Professor, as they investigate Eldritch Secrets no mortal was meant to discover. Someone has stolen the Necronomicon from the library at Miskatonic University, and a Farm in the hills is undergoing a horrifying Metamorphosis. Meanwhile, unspeakable abominations stir in Penguin-riddled Tombs beneath the ice. Are you Inevitably Doomed to a lifetime of Nightmares in the Sanitarium, or are you, in fact, a Secret Cultist, worshiping the Minions of Darkness? Gaze upon the ever- changing face of Madness with Cthulhu Fluxx!",
+    "price": 19.95,
+    "publisher": "Looney Labs Games",
+    "designer": "Keith Baker",
+    "inventory": 10,
+    "img": "http://www.looneylabs.com/sites/default/files/CthulhuFluxx_3D_Cover.jpg"
+  }, {
+    "name": "Eldritch Horror",
+    "description": "An ancient evil is stirring. You are part of a team of unlikely heroes engaged in an international struggle to stop the gathering darkness. To do so, you’ll have to defeat foul monsters, travel to Other Worlds, and solve obscure mysteries surrounding this unspeakable horror. The effort may drain your sanity and cripple your body, but if you fail, the Ancient One will awaken and rain doom upon the known world. ",
+    "price": 60,
+    "publisher": "Fantasy Flight Games",
+    "designer": "Fantasy Flight Obscured Designer",
+    "inventory": 10,
+    "img": "https://cf.geekdo-images.com/images/pic1872452.jpg"
+  }, {
+    "name": "Ruse",
+    "description": "A murder has been committed in the Victorian Steampunk city of St. Sebastian. You have made the short list of Police suspects and the only way to retain your freedom is to prove that one of the others on the list is, in fact, the murderous culprit.",
+    "price": 24.95,
+    "publisher": "Bonsai Games",
+    "designer": "Levi Mote and Sarah Sharp",
+    "inventory": 10,
+    "img": "https://ksr-ugc.imgix.net/assets/000/266/353/b2ab5edb545deabac0a519dc4323ccae_original.jpg?w=680&fit=max&v=1353124979&auto=format&q=92&s=64576e06ff8fdd3745aedb54e9c7001a"
+  }, {
+    "name": "Stratego",
+    "description": "Stratego is a strategy board game for two players on a board of 10×10 squares. Each player controls 40 pieces representing individual soldier ranks in an army. The objective of the game is to find and capture the opponent's Flag, or to capture so many enemy pieces that the opponent cannot make any further moves.",
+    "price": 25,
+    "publisher": "Milton Bradley",
+    "designer": "Bradley Milton",
+    "inventory": 10,
+    "img": "https://images-na.ssl-images-amazon.com/images/I/51t9GaJfStL.jpg"
+  }, {
+    "name": "Lords of Waterdeep",
+    "description": "Waterdeep, the City of Splendors—the most resplendent jewel in the Forgotten Realms, and a den of political intrigue and shady back-alley dealings. In this game, the players are powerful lords vying for control of this great city. Its treasures and resources are ripe for the taking, and that which cannot be gained through trickery and negotiation must be taken by force!",
+    "price": 39.95,
+    "publisher": "Wizards of the Coast",
+    "designer": "Rodney Thompson",
+    "inventory": 10,
+    "img": "http://dnd.wizards.com/sites/default/files/media/styles/product_tabletop_left/public/images/product/DnD_LOW.png?itok=YQe-QDer"
+  }, {
+    "name": "Pandemic",
+    "description": "In Pandemic, several virulent diseases have broken out simultaneously all over the world! The players are disease-fighting specialists whose mission is to treat disease hotspots while researching cures for each of four plagues before they get out of hand.",
+    "price": 25,
+    "publisher": "Z-Man Games",
+    "designer": "Matt Leacock",
+    "inventory": 10,
+    "img": "https://cf.geekdo-images.com/images/pic1534148.jpg"
+  }]
+}
