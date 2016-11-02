@@ -1,5 +1,5 @@
 {
-  "games": [{
+  "items": [{
     "name": "Phoenix: Dawn Command",
     "description": "Phoenix uses cards in place of dice. Every player has a deck of cards that represent a character’s abilities. To accomplish an action, a player needs to lay down a set of cards with a total value that equals or exceeds the difficulty of the task. A player can get an extra push by using a trait – a card that describes a unique aspect of a character. If the player can explain how that trait applies to the current challenge, the value of the card is increased. This encourages casual storytelling, driving players to describe an action beyond the simple numbers. In addition, each player has a pool of mystical energy that can be used to boost the value of an action. This allows a character to succeed at a normally impossible task… but when that pool of energy is exhausted, the character dies.",
     "price": 65,
