@@ -72,6 +72,22 @@
     "inventory": 10,
     "img": "http://dnd.wizards.com/sites/default/files/media/styles/product_tabletop_left/public/images/product/DnD_LOW.png?itok=YQe-QDer"
   }, {
+    "name": "Betrayal at House on the Hill",
+    "description": "Betrayal at House on the Hill is a board game published by Avalon Hill and designed by Bruce Glassco. Players all begin as allies exploring a haunted house filled with dangers, traps, items and omens. As players explore the mansion, new room tiles are chosen at random; accordingly, the game board is different each session. Eventually the 'haunt' begins, with the nature and plot of this session's ghost story revealed; one player 'betrays' the others and takes the side of the ghosts, monsters, or other enemies, while the remaining players collaborate to defeat them.",
+    "price": 39.95,
+    "publisher": "Avalon Hill",
+    "designer": "Mike Selinker",
+    "inventory": 10,
+    "img": "http://www.acrosstheboardgames.net/wp-content/uploads/betrayal-at-house-on-the-hill.png"
+  }, {
+    "name": "Bohnanza",
+    "description": "Bohnanza is the first in the Bohnanza family of games and has been published in several different editions.<br>The cards are colorful depictions of beans in various descriptive poses, and the object is to make coins by planting fields (sets) of these beans and then harvesting them. To help players match their cards up, the game features extensive trading and deal making. One of the most unique features of the game is that you cannot rearrange your hand, as you need to play the cards in the order that you draw them.<br>The original German edition supports 3-5 players.",
+    "price": 24.95 ,
+    "publisher": "Amigo Spiel",
+    "designer": "Uwe Rosenberg",
+    "inventory": 10,
+    "img": "https://cf.geekdo-images.com/images/pic69366_md.jpg"
+  }, {
     "name": "Pandemic",
     "description": "In Pandemic, several virulent diseases have broken out simultaneously all over the world! The players are disease-fighting specialists whose mission is to treat disease hotspots while researching cures for each of four plagues before they get out of hand.",
     "price": 25,
