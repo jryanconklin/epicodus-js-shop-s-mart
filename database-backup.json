@@ -5,7 +5,7 @@
     "price": 65,
     "publisher": "TwoGether Studios",
     "designer": "Keith Baker & Daniel Garrison",
-    "inventory": 10,
+    "inventory": 2,
     "img": "http://twogetherstudios.com/wp-content/uploads/2016/08/PDCBoxtop.png"
   }, {
     "name": "Dutch Blitz",
@@ -13,7 +13,7 @@
     "price": 12.50,
     "publisher": "Widget Inc.",
     "designer": "Werner Ernst George Muller",
-    "inventory": 10,
+    "inventory": 20,
     "img": "https://cf.geekdo-images.com/images/pic336418.jpg"
   }, {
     "name": "Ad Astra",
@@ -21,7 +21,7 @@
     "price": 99.95,
     "publisher": "Fantasy Flight Games: Nexus Design Series",
     "designer": "Bruno Faidutti and Serge Laget",
-    "inventory": 10,
+    "inventory": 1,
     "img": "https://images-na.ssl-images-amazon.com/images/I/717CVFIVvcL._SL1200_.jpg"
   }, {
     "name": "Solarquest",
@@ -29,7 +29,7 @@
     "price": 145,
     "publisher": "Golden Press/Western Publishing Company",
     "designer": "Valen Brost",
-    "inventory": 10,
+    "inventory": 3,
     "img": "http://www.spyhunter007.com/Images2/solarquest_board_game.bmp"
   }, {
     "name": "Cthulhu Fluxx",
@@ -45,7 +45,7 @@
     "price": 60,
     "publisher": "Fantasy Flight Games",
     "designer": "Fantasy Flight Obscured Designer",
-    "inventory": 10,
+    "inventory": 6,
     "img": "https://cf.geekdo-images.com/images/pic1872452.jpg"
   }, {
     "name": "Ruse",
@@ -53,7 +53,7 @@
     "price": 24.95,
     "publisher": "Bonsai Games",
     "designer": "Levi Mote and Sarah Sharp",
-    "inventory": 10,
+    "inventory": 4,
     "img": "https://ksr-ugc.imgix.net/assets/000/266/353/b2ab5edb545deabac0a519dc4323ccae_original.jpg?w=680&fit=max&v=1353124979&auto=format&q=92&s=64576e06ff8fdd3745aedb54e9c7001a"
   }, {
     "name": "Stratego",
@@ -61,7 +61,7 @@
     "price": 25,
     "publisher": "Milton Bradley",
     "designer": "Bradley Milton",
-    "inventory": 10,
+    "inventory": 13,
     "img": "https://images-na.ssl-images-amazon.com/images/I/51t9GaJfStL.jpg"
   }, {
     "name": "Lords of Waterdeep",
@@ -69,7 +69,7 @@
     "price": 39.95,
     "publisher": "Wizards of the Coast",
     "designer": "Rodney Thompson",
-    "inventory": 10,
+    "inventory": 8,
     "img": "http://dnd.wizards.com/sites/default/files/media/styles/product_tabletop_left/public/images/product/DnD_LOW.png?itok=YQe-QDer"
   }, {
     "name": "Betrayal at House on the Hill",
@@ -77,7 +77,7 @@
     "price": 39.95,
     "publisher": "Avalon Hill",
     "designer": "Mike Selinker",
-    "inventory": 10,
+    "inventory": 6,
     "img": "http://www.acrosstheboardgames.net/wp-content/uploads/betrayal-at-house-on-the-hill.png"
   }, {
     "name": "Bohnanza",
@@ -85,7 +85,7 @@
     "price": 24.95 ,
     "publisher": "Amigo Spiel",
     "designer": "Uwe Rosenberg",
-    "inventory": 10,
+    "inventory": 4,
     "img": "https://cf.geekdo-images.com/images/pic69366_md.jpg"
   }, {
     "name": "Pandemic",
@@ -93,7 +93,7 @@
     "price": 25,
     "publisher": "Z-Man Games",
     "designer": "Matt Leacock",
-    "inventory": 10,
+    "inventory": 7,
     "img": "https://cf.geekdo-images.com/images/pic1534148.jpg"
   }]
 }
