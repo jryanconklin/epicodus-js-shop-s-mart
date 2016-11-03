@@ -8,8 +8,11 @@ export default Ember.Route.extend({
   shoppingCart: Ember.inject.service(),
 
   actions: {
+
     addToCart(item) {
       this.get('shoppingCart').add(item);
-    }
+    },
+
+
   } // End Actions
 }); // End Ember.Route
