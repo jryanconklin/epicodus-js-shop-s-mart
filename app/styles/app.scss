@@ -1,25 +1,25 @@
-
-// Main Styles
-
-header h1 {
-  font-family: 'Poiret One', cursive;
-}
+$text : rgba(0,0,0,1);
+$hover : rgba(0,0,128,1);
 
 body {
   font-family: 'Roboto Slab', serif;
+  a:link,
+  a:visited,
+  a:active {
+    color: $text;
+    text-decoration: none;
+  }
+  a:hover {
+    color: $hover;
+    text-decoration: none;
+  }
+  header h1 {
+    font-family: 'Poiret One', cursive;
+  }
+  #bottom {
+    margin-top: 30vh;
+  }
 }
-
-// ID Styles
-
-#bottom {
-  margin-top: 30vh;
-}
-
-
-// Class Styles
-
-
-
 
 // Available Font Families
 
