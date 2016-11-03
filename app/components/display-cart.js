@@ -14,7 +14,6 @@ export default Ember.Component.extend({
   actions: {
     removeFromCart(item) {
       this.get('shoppingCart').remove(item);
-      this.transitionTo('store');
     }
   } // End Actions
 });
