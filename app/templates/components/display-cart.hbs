@@ -1,12 +1,13 @@
-<div class="well">
-  <div class="row">
-    <h1>Cart</h1>
-    {{#each shoppingCart.items as |item|}}
-      <div class="col-sm-4">
-        <h4>{{item.title}}</h4>
-        <p class="text-muted">{{item.name}}: ${{item.price}}</p>
-        <button class="btn btn-danger btn-xs" {{action 'removeFromCart' item}}>Remove</button>
-      </div>
-    {{/each}}
-  </div>
-</div>
+
+
+    <div class="col-sm-4 well pull-right">
+      <h1>Cart</h1>
+      {{#each shoppingCart.items as |item|}}
+
+          <h4>{{item.title}}</h4>
+          <p class="text-muted">{{item.name}}: ${{item.price}}</p>
+          <button class="btn btn-danger btn-xs" {{action 'removeFromCart' item}}>Remove</button>
+
+      {{/each}}
+    </div>
+  
