@@ -5,6 +5,7 @@
       <div class="col-sm-4">
         <h4>{{item.title}}</h4>
         <p class="text-muted">{{item.name}}: ${{item.price}}</p>
+        <button class="btn btn-danger btn-xs" {{action 'removeFromCart' item}}>Remove</button>
       </div>
     {{/each}}
   </div>
