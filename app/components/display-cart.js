@@ -3,7 +3,7 @@ import Ember from 'ember';
 export default Ember.Component.extend({
 
   shoppingCart: Ember.inject.service(),
-  calculate: Ember.computed(function() {
+  calculate: Ember.computed('shoppingCart.items.@each.count', function() {
     var total = 0;
     for (var i = 0; i < this.get('shoppingCart').items.length; i++) {
       total += this.get('shoppingCart').items[i].data.price;
