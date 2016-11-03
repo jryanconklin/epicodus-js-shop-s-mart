@@ -1,4 +1,19 @@
-{{#each model as |item|}}<h1>{{item.name}}</h1>{{/each}}
+{{#each model as |model|}}
+  <div class="well">
+    <div class="row">
 
+      <div class="col-sm-4">
+        <img class="img-responsive" src={{model.img}} alt={{model.description}} />
+      </div>
+
+      <div class="col-sm-4">
+        <h3>{{model.name}}</h3>
+        <h5>{{model.price}}</h5>
+        <p>{{model.description}}</p>
+      </div>
+
+    </div> <!-- Well  -->
+  </div>
+{{/each}}
 
 {{display-cart}}
