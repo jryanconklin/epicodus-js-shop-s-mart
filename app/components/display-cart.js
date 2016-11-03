@@ -11,9 +11,16 @@ export default Ember.Component.extend({
     return total.toFixed(2);
   }),
 
+  // Why doesn't this work?
+  // priceheader: Ember.computed('item.name', 'item.price', function() {
+  //   return this.get('shoppingCart.item.name') + ': $' + this.get('item.price');
+  // }),
+
+
   actions: {
     removeFromCart(item) {
       this.get('shoppingCart').remove(item);
     }
   } // End Actions
+
 });

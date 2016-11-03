@@ -1,8 +1,9 @@
 <div class="col-sm-4">
   {{#link-to 'store.item' item.id}}
     <div class="well">
-      <h4>{{item.name}}</h4>
-      <p>${{item.price}}</p>
+      <p>
+        {{header}}
+      </p>
       <p class="text-muted" >Qty: {{item.inventory}} {{inventory-icon item}}</p>
     </div>
   {{/link-to}}
