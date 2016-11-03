@@ -1,6 +1,6 @@
 # Shop S Mart
 
-
+Shop Smart! Shop S-Mart! S-Mart is a Game Store for the modern era. They sell all kinds of games... Plus the occasional BOOM STICK. 
 
 ## User Stories
 
